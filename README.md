@@ -82,7 +82,7 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 
 ## 📈 **Weekly Progress Tracker**
 
-[![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-and-Integration-success?style=flat-square)](Week0)
+![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-and-Integration-success?style=flat-square)(Week0)
 ![Week 1](https://img.shields.io/badge/Week%201-Up%20coming-lightgrey?style=flat-square)
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
 
