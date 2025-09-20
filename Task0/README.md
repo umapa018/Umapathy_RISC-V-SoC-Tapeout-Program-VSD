@@ -21,6 +21,7 @@ sudo apt update
 sudo apt install build-essential dkms linux-headers-$(uname -r)
 cd /media/<username>/VBox_GAs_7.1.8/
 ./autorun.sh
+```
 
 
 ## 🔧 Tool Installation & Verification  
@@ -39,7 +40,7 @@ make config-gcc
 git submodule update --init --recursive
 make
 sudo make install
-
+```
 ![Alt Text](Images/yosys_installation.jpeg)
 
 
@@ -48,7 +49,7 @@ sudo make install
 ```bash
 sudo apt-get update
 sudo apt-get install iverilog
-
+```
 ![Alt Text](Images/iverilog_installation.jpeg)
 
 ### 3️⃣ <ins>**GTKWave (Waveform Viewer)**</ins>
@@ -56,7 +57,7 @@ sudo apt-get install iverilog
 ```bash
 sudo apt-get update
 sudo apt install gtkwave
-
+```
 ![Alt Text](Images/gtkwave_installation.jpeg)
 
 
