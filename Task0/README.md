@@ -26,7 +26,7 @@ cd /media/<username>/VBox_GAs_7.1.8/
 
 ## 🔧 Tool Installation & Verification  
 
-#### 1️⃣ <ins>**Yosys (Synthesis Tool) **</ins> 
+#### 1️⃣ <ins>Yosys (Synthesis Tool) </ins> 
 
 ```bash
 sudo apt-get update
@@ -44,7 +44,7 @@ sudo make install
 ![Alt Text](Images/yosys_installation.jpeg)
 
 
-### 2️⃣ <ins>**Icarus Verilog (Simulation Tool)**</ins>
+### 2️⃣ <ins>Icarus Verilog (Simulation Tool)</ins>
 
 ```bash
 sudo apt-get update
@@ -52,7 +52,7 @@ sudo apt-get install iverilog
 ```
 ![Alt Text](Images/iverilog_installation.jpeg)
 
-### 3️⃣ <ins>**GTKWave (Waveform Viewer)**</ins>
+### 3️⃣ <ins>GTKWave (Waveform Viewer)</ins>
 
 ```bash
 sudo apt-get update
