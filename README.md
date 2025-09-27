@@ -21,7 +21,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | Task | Description | Status |
 |------|-------------|--------|
 | [**Task 0**](Task0/README.md) | 🛠️ Tools Installation — Installed **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-| [**Task 1/week 1**](week1) | 🛠️ Tools Uaage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
+| [**Task 1/week 1**](Week1) | 🛠️ Tools Uaage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 ---
 
 ### 📺 Resizing Ubuntu VM for Better Display
@@ -94,7 +94,7 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 ## 📈 **Weekly Progress Tracker**
 
 [![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-green?style=flat-square)](Task0)
-[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-lightgrey?style=flat-square)](week1)
+[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-green?style=flat-square)](Week1)
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
 
 
