@@ -21,7 +21,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | Task | Description | Status |
 |------|-------------|--------|
 | [**Task 0**](Task0/README.md) | 🛠️ Tools Installation — Installed **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-
+| [**Task 1/week 1**](week1) | 🛠️ Tools Uaage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 ---
 
 ### 📺 Resizing Ubuntu VM for Better Display
@@ -71,6 +71,17 @@ sudo apt install gtkwave
 - Exposure in installing **open-source EDA tools**: Yosys, Icarus Verilog, GTKWave.  
 - Implementation on **Ubuntu VM** inside Oracle VirtualBox.  
 
+### 🌟 Week 1 Learnings
+
+RISC-V Reference SoC Tapeout Program
+
+- Day 1: Introduction to Verilog RTL design and Synthesis
+- Day 2: Learned about timing libraries, hierarchical vs flat synthesis, and efficient flop coding styles
+- Day 3: Applied combinational and sequential optimizations
+- Day 4: Studied GLS, blocking vs non-blocking assignments, and synthesis-simulation mismatches
+- Day 5: Focused on optimization in synthesis
+
+Completed Week 1 GitHub repository submission
 
 ## Acknowledgment  
 
@@ -83,7 +94,7 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 ## 📈 **Weekly Progress Tracker**
 
 [![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-green?style=flat-square)](Task0)
-![Week 1](https://img.shields.io/badge/Week%201-Up%20coming-lightgrey?style=flat-square)
+[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-lightgrey?style=flat-square)](week1)
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
 
 
