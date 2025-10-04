@@ -21,6 +21,8 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | Task | Description | Status |
 |------|-------------|--------|
 | [**Task 0**](Task0/README.md) | 🛠️ Tools Installation — Installed **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
+| [**Task 1/week 1**](Week1) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
+| [**Task 2/week 2**](Week2) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 
 ---
 
@@ -71,6 +73,36 @@ sudo apt install gtkwave
 - Exposure in installing **open-source EDA tools**: Yosys, Icarus Verilog, GTKWave.  
 - Implementation on **Ubuntu VM** inside Oracle VirtualBox.  
 
+### 🌟 Week 1 Learnings
+
+RISC-V Reference SoC Tapeout Program
+
+- Day 1: Introduction to Verilog RTL design and Synthesis
+- Day 2: Learned about timing libraries, hierarchical vs flat synthesis, and efficient flop coding styles
+- Day 3: Applied combinational and sequential optimizations
+- Day 4: Studied GLS, blocking vs non-blocking assignments, and synthesis-simulation mismatches
+- Day 5: Focused on optimization in synthesis
+
+Completed Week 1 GitHub repository submission
+
+## 📅 Week 2 — Fundamentals of SoC Design
+
+| Task       | Description | Status |
+| ---------- | ----------- | ------ |
+| [**Task 1**](Week2/README.md) | 📘 Write-up on SoC fundamentals | ✅ Done |
+| [**Task 2**](Week2/README.md#-vsdbabysoc--a-tiny-but-powerful-risc-v-soc) | 📝 VSDBabySoC  | ✅ Done |
+| [**Task 3**](Week2/README.md#-the-instruction-program-driving-babysoc) | 📊 Understanding of  RVMYTH core  | ✅ Done |
+| [**Task 4**](Week2/README.md#-pre_synth_sim-waveform) | ✍️Pre synthesis Waveform  & explanations | ✅ Done |
+
+---
+
+### 🌟 Key Learnings from Week 2  
+
+* Gained conceptual understanding of **SoC fundamentals** (CPU, memory, interconnect, peripherals).  
+* Learned how **BabySoC** simplifies SoC design concepts and verified its behavior using simulation + GTKWave.
+* [**Future Work:**](Week2/README.md#-future-work) Add memory for instruction fetch and enable C programs to be compiled into hex for execution on BabySoC.  
+
+Completed Week 2 Github repo submission
 
 ## Acknowledgment  
 
@@ -83,8 +115,8 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 ## 📈 **Weekly Progress Tracker**
 
 [![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-green?style=flat-square)](Task0)
-![Week 1](https://img.shields.io/badge/Week%201-Up%20coming-lightgrey?style=flat-square)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
+[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-green?style=flat-square)](Week1)
+[![Week 2](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week2/README.md)
 
 
 
@@ -96,4 +128,3 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 
 
 ---
-
