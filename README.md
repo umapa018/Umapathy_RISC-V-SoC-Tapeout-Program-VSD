@@ -23,7 +23,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 | [**Task 0**](Task0/README.md) | 🛠️ Tools Installation — Installed **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 | [**Task 1/week 1**](Week1) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
 | [**Task 2/week 2**](Week2) | 🛠️ Tools Usage- **Icarus Verilog**, **Yosys**, and **GTKWave** | ✅ Done |
-
+| [**Task 3/week 3**](Week3) | 🛠️ Tools Usage-  **Yosys**, and **GTKWave** | ✅ Done |
 ---
 
 ### 📺 Resizing Ubuntu VM for Better Display
@@ -114,10 +114,10 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 
 ## 📈 **Weekly Progress Tracker**
 
-[![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-green?style=flat-square)](Task0)
-[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-green?style=flat-square)](Week1)
+[![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Task0)
+[![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-success?style=flat-square)](Week1)
 [![Week 2](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week2/README.md)
-
+[![Week 3](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week3/README.md)
 
 
 **🔗 Program Links:**
