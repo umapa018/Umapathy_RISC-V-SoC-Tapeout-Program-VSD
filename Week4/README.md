@@ -116,7 +116,7 @@ Ever notice how threshold voltage isn't always constant? Meet the **body effect*
 
 <div align="center">
 
-![Body Effect](Images/11.png)
+
 
 </div>
 
@@ -174,7 +174,6 @@ plot -vdd#branch
 
 <div align="center">
 
-![NMOS Characteristics](Images/Task1_vddbranch_day1.png)
 
 *Id vs Vds for various Vgs values—the MOSFET's signature*
 
@@ -464,7 +463,6 @@ plot -vdd#branch
 
 <div align="center">
 
-![Id vs Vds](Images/Task2_day2_vddbranch.png)
 
 *The family of curves reveals MOSFET personality across all operating points*
 
@@ -516,7 +514,6 @@ plot -vdd#branch
 
 <div align="center">
 
-![Id vs Vgs](Images/Task2_day2_idvGs.png)
 
 *The transfer characteristic—watch the transistor "wake up" at Vt!*
 
