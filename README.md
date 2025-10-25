@@ -120,9 +120,9 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 [![Week 0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Task0)
 [![Week 1](https://img.shields.io/badge/Week%201-Tools%20Usage-success?style=flat-square)](Week1)
 [![Week 2](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week2/README.md)
-[![Week 3](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week3/README.md)
-[![Week 4](https://img.shields.io/badge/Week%202-SoC%20VSDBaby-success?style=flat-square)](Week4/README.md)
-[![Week 5](https://img.shields.io/badge/Week%202-OpenRoad%20Streetmap-success?style=flat-square)](Week5/README.md)
+[![Week 3](https://img.shields.io/badge/Week%203-SoC%20VSDBaby-success?style=flat-square)](Week3/README.md)
+[![Week 4](https://img.shields.io/badge/Week%204-SoC%20VSDBaby-success?style=flat-square)](Week4/README.md)
+[![Week 5](https://img.shields.io/badge/Week%205-OpenRoad%20Streetmap-success?style=flat-square)](Week5/README.md)
 
 
 
