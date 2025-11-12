@@ -123,6 +123,7 @@ A special note of appreciation goes to [**ChatGPT (OpenAI)**](https://chatgpt.co
 [![Week 3](https://img.shields.io/badge/Week%203-SoC%20VSDBaby-success?style=flat-square)](Week3/README.md)
 [![Week 4](https://img.shields.io/badge/Week%204-SoC%20VSDBaby-success?style=flat-square)](Week4/README.md)
 [![Week 5](https://img.shields.io/badge/Week%205-OpenRoad%20Streetmap-success?style=flat-square)](Week5/README.md)
+[![Week 6](https://img.shields.io/badge/Week%205-OpenRoad%20Streetmap-success?style=flat-square)](Week6/README.md)
 
 
 
